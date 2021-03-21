@@ -13,6 +13,6 @@ Car Detection
 
 Car's Plate Detection
 
-Please open it on any Notebook like Jupyter Notebook IDE, Spyder, etc.
+Please open it on any Notebook like Jupyter Notebook IDE.
 
 # Happy Coding! 
